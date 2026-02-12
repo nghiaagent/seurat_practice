@@ -1,6 +1,7 @@
 here::i_am("R/03_EDA.R")
 
 # Import packages
+library(ggforce)
 library(Seurat)
 library(patchwork)
 library(tidyverse)
