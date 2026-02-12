@@ -2,8 +2,9 @@ here::i_am("R/02_preprocess.R")
 
 # Import packages
 library(Seurat)
-library(glmGamPoi)
 library(GGally)
+library(ggforce)
+library(glmGamPoi)
 library(patchwork)
 library(tidyverse)
 
