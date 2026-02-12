@@ -44,6 +44,9 @@ pbmc <- "input/pbmc3k_filtered_gene_bc_matrices/filtered_gene_bc_matrices/hg19" 
 # Print the Seurat object
 show(pbmc)
 
+# Show the structure of the Seurat object
+str(pbmc)
+
 # Show the fitst 20x20 section of the dataset
 message("Printing first 20x20 section of the dataset")
 pbmc |>
