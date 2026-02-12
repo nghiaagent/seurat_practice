@@ -1,7 +1,5 @@
-# Project README
-
-
 # Analysis of the 10X PBMC dataset with Seurat
+
 
 This repository contains the code for a basic clustering and annotation
 analysis of the 10X PBMC scRNA-seq dataset with Seurat.
